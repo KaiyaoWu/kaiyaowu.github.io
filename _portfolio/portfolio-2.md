@@ -2,6 +2,7 @@
 title: "Manufacturing of Counter-flow Dew-Point Evaporative Air Conditioners"
 collection: Projects
 ---
+
 Contributions
 ======
 *	Simulated the flat cooling channels under varying conditions through the COMSOL-MATLAB LiveLink interface, and optimized structure parameters of the channels based on extracted results.
