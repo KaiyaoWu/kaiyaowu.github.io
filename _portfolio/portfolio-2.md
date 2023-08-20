@@ -1,5 +1,6 @@
 ---
 title: "Manufacturing of Counter-flow Dew-Point Evaporative Air Conditioners"
+excerpt: ""
 collection: Projects
 ---
 
