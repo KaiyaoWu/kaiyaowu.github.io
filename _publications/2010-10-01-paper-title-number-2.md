@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Numerical Investigation of a Novel Tubular Dew-Point Evaporative Cooler"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper is accepted by Applied Thermal Engineering.'
+date: 2023-03-25
+venue: 'Volume 223'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1359431123000935?via%3Dihub'
+citation: '2.	Gao, F., Thu, K., Wang, S. *, Zhao, F., Lin, J. *, Wu, K.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1359431123000935?via%3Dihub)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Gao, F., Thu, K., Wang, S. *, Zhao, F., Lin, J. *, Wu, K. (2023). “Numerical Investigation of a Novel Tubular Dew-Point Evaporative Cooler”. Applied Thermal Engineering vol. 223, 2023, p. 120064 
