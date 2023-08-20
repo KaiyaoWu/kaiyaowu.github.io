@@ -14,3 +14,4 @@ Contributions
 *	Drafted a research paper based on the findings and submitted for publication. Contributed to conceptualization, investigation, methodology, simulation, data curation, writing of the final manuscript.
 
 ![Hardware Platform](/images/platform.png)
+*Hardware Platform*
