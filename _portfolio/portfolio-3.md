@@ -1,5 +1,6 @@
 ---
 title: "Development of a Novel Tube-Type Dew-Point Evaporative Cooling Model"
+excerpt: ""
 collection: Projects
 ---
 Contributions
