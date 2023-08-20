@@ -1,6 +1,6 @@
 ---
 title: "Heat and Mass Transfer of Macro-roughened Dew-Point Evaporative Cooling"
-excerpt: "Streamline of the Normal Flat Type Channels and the Rib-Roughened Channels 1<br/><img src='/images/500x300.png'>"
+excerpt: "Streamline of the Normal Flat Type Channels and the Rib-Roughened Channels 1<br/><img src='/images/demo_comparision.png'>"
 collection: Projects
 ---
 
