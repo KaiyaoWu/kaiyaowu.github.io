@@ -1,6 +1,6 @@
 ---
 title: "Development of a Novel Tube-Type Dew-Point Evaporative Cooling Model"
-excerpt: ""
+excerpt: "Tube Design in UG <br/><img src='/images/UG_Tube_Rendered.png'>"
 collection: Projects
 ---
 Contributions
@@ -11,3 +11,8 @@ Contributions
 *	Improved the cooling effect with a 2 ℃ colder product air temperature at a low air velocity of 2 m/s.
 *	Drafted a research paper and submitted for publication. Contribute to investigation, methodology, and simulation.
 
+![Hardware Platform](/images/UG_Tube.png)
+|*Heat Transfer Simulation in the Tube*|
+
+![Hardware Platform](/images/UG_Tube.png)
+|*Tube built based on UG models*|
