@@ -14,5 +14,5 @@ Contributions
 ![Hardware Platform](/images/UG_Tube.png)
 |*Heat Transfer Simulation in the Tube*|
 
-![Hardware Platform](/images/UG_Tube.png)
+![Hardware Platform](/images/Tube_Real.png)
 |*Tube built based on UG models*|
