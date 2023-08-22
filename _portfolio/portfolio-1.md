@@ -15,3 +15,9 @@ Contributions
 
 ![Hardware Platform](/images/platform.png)
 |*Hardware Platform*|
+
+![Hardware Platform](/images/temperature.png)
+|*Achieved extra 37% temperature reduction*|
+
+![Hardware Platform](/images/Nusselt.png)
+|*Nusselt Results*|
