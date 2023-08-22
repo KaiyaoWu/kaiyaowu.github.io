@@ -1,6 +1,6 @@
 ---
 title: "Manufacturing of Counter-flow Dew-Point Evaporative Air Conditioners"
-excerpt: ""
+excerpt: "Prototypes of the Air Conditioner (Second Generation) <br/><img src='/images/UG_SECOND.png'>"
 collection: Projects
 ---
 
@@ -13,3 +13,13 @@ Contributions
 *	Reduced the indoor temperature of a 20 m2 warehouse with a height of 3.6 m from 35 ℃ to 23.2 ℃ in Chongqing Data Center using the prototype, achieving a coefficient of performance (COP) of 6.25.
 *	Facilitated the training of students in National Student Innovation Projects.
 
+![Hardware Platform](/images/UG_FIRST.png)
+|*Air Conditioner (First Generation)*|
+
+
+![Hardware Platform](/images/first_prototype.png)
+|*Air Conditioner Build*|
+
+
+![Hardware Platform](/images/TESTING.png)
+|*AC Testing in Chongqing Data Center*|
