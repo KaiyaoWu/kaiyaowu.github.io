@@ -24,6 +24,7 @@ Professionally, I've had the privilege to intern at CISDI Information Technology
 Accolades
 ------
 My dedication to innovation and academic excellence has been recognized at various levels. Some noteworthy honors include the Second Prize at the Energy Saving and Emission Reduction Social Practice and Science and Technology Competition held by Southeast University and the Silver Award of the 8th International College Students’ ‘Internet+’ in Chongqing. Additionally, I won the Outstanding Undergraduate Dissertation award, which is selected thoughout the entire province.
+
 Skills
 ------
 On the technical front, I am proficient with software tools like COMSOL Multiphysics, SolidWorks, and AutoCAD. I also boast advanced programming expertise in Python, C++, and MATLAB.
