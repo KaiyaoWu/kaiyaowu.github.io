@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, Chongqing University, 2024 (expected)
+* B.S. in Mechanical Engineering, Chongqing University, 2024
 
 Publications
 ======
@@ -21,8 +21,15 @@ Publications
 
 Research experience
 ======
+Thermal Management System Based on Flexible Composite Phase Change Material and Bionic Cooling Channels
+* Spring 2024: Research Assistant at Chongqing University (Supervised by Prof. Yunlin Shao)
+  * Accomplished the preparation of the modified flexible phase change material, tested and verified the synergistic enhancement of the binary fillers on its thermal conductivity, with a maximum of 91.8%.
+  * Verified the excellent thermal stability even after 100 thermal cycles.
+  * Demonstrated the outstanding temperature reduce capacity of the flexible composite phase change material under different discharge rate in COMSOL Multiphysics.
+  * Drafted a research paper and submitted for publication. Currently developing a complete thermal management system that combines bionic liquid cooling channels.
+  
 Heat and Mass Transfer of Dew-Point Evaporative Cooling with Macro-Roughened Structure
-* Spring 2022: Research Assistant at Chongqing University (Supervised by Prof. Sibao Wang)
+* Spring 2022: Research Assistant at Chongqing University (Supervised by Prof. Sibao Wang and Prof. Yunlin Shao)
   * Reviewed and identified gaps in analyzing the heat and mass transfer mechanisms of cooling performance improvement by macro-roughness at high air velocities (3.5–5.5 m/s) in dew-point evaporative cooling.
   * Derived a turbulent heat and humidity transfer CFD model based on the Reynolds-averaged Navier-Stokes (RANS) method, which is the first attempt in dew-point evaporative cooling.
     * Overcame the limitations of conventional thermodynamic models in capturing the interactions between turbulent flow fields and evaporative heat and mass transfer.
@@ -65,10 +72,12 @@ Professional experience
   
 Honors
 ======
+* Outstanding Undergraduate Dissertation, Chongqing, 2024. (Provincial award)
 * Second Prize of the 16th Energy Saving and Emission Reduction Social Practice and Science and Technology Competition, Southeast University, 2023. (National awards)
 * Outstanding Student Achievement in Scientific and Technological Innovation Award for the 2021–2022 academic year, Chongqing University, 2022. (University-level Awards)
 * Silver Award of the 8th International College Students’ ‘Internet+’, Chongqing, 2022. (Provincial awards)
 * "Fifteenth Anniversary of National Innovation Program" School-level Excellence, Chongqing University, 2021. (University-level Awards)
 * The Thirteenth Student Research Training Program (SRTP) University-level Outstanding Project, Chongqing University, 2021. (University-level Awards)
 * Volunteer of Chongqing Changjiahui International Half Marathon, Chongqing, 2021.
+* Dean’s List of University of Cincinnati.
 
