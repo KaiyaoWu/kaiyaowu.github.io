@@ -15,7 +15,7 @@ I am currently finalizing my Bachelor of Science in Mechanical Engineering at th
 
 Research & Publications
 ------
-I've dedicated a significant portion of my time to research, predominantly under the guidance of Prof. Sibao Wang at Chongqing University's College of Mechanical and Vehicle Engineering. My endeavors led to publications in esteemed journals such as Energy Conversion and Management and Applied Thermal Engineering, as well as securing multiple utility and design patents focused on heat transfer and evaporative cooling technologies. 
+I've dedicated a significant portion of my time to research, predominantly under the guidance of Prof. Sibao Wang at Chongqing University's College of Mechanical and Vehicle Engineering, and Prof. Yunlin Shao at Chongqing University's College of Energy and Power Engineering. My endeavors led to publications in esteemed journals such as International Journal of Heat and Mass Transfer, Applied Energy, and Applied Thermal Engineering, as well as securing multiple utility and design patents focused on heat transfer and evaporative cooling technologies. 
 
 Experience
 ------
@@ -23,8 +23,7 @@ Professionally, I've had the privilege to intern at CISDI Information Technology
 
 Accolades
 ------
-My dedication to innovation and academic excellence has been recognized at various levels. Some noteworthy honors include the Second Prize at the Energy Saving and Emission Reduction Social Practice and Science and Technology Competition held by Southeast University and the Silver Award of the 8th International College Students’ ‘Internet+’ in Chongqing.
-
+My dedication to innovation and academic excellence has been recognized at various levels. Some noteworthy honors include the Second Prize at the Energy Saving and Emission Reduction Social Practice and Science and Technology Competition held by Southeast University and the Silver Award of the 8th International College Students’ ‘Internet+’ in Chongqing. Additionally, I won the Outstanding Undergraduate Dissertation award, which is selected thoughout the entire province.
 Skills
 ------
 On the technical front, I am proficient with software tools like COMSOL Multiphysics, SolidWorks, and AutoCAD. I also boast advanced programming expertise in Python, C++, and MATLAB.
