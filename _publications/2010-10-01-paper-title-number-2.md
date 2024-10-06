@@ -5,8 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is accepted by Applied Thermal Engineering.'
 date: 2023-03-25
 venue: 'Volume 223'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S1359431123000935?via%3Dihub'
-citation: '2.	Gao, F., Thu, K., Wang, S. *, Zhao, F., Lin, J. *, Wu, K.'
+citation: 'Gao, F., Thu, K., Wang, S. *, Zhao, F., Lin, J. *, Wu, K.'
 ---
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S1359431123000935?via%3Dihub)
