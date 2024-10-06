@@ -1,5 +1,5 @@
 ---
-title: A thermally induced flexible composite phase change material with boron nitride nanosheets/carbon nanotubes modified skeleton for battery thermal management
+title: A Thermally Induced Flexible Composite Phase Change Material with Boron Nitride Nanosheets/carbon Nanotubes Modified Skeleton for Battery Thermal Management
 collection: publications
 date: 2024-07-17
 venue: 'Volume 373'
