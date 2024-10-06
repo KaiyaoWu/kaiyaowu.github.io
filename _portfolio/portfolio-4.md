@@ -1,6 +1,6 @@
 ---
 title: "A Thermally Induced Flexible Composite Phase Change Material with Boron Nitride Nanosheets/carbon Nanotubes Modified Skeleton for Battery Thermal Management"
-excerpt: "Preparation of the flexible composite phase change material 1<br/><img src='/images/Figure34.png'>"
+excerpt: "Preparation of the flexible composite phase change material 1<br/><img src='/images/Figure35.png'>"
 collection: Projects
 ---
 Contributions
