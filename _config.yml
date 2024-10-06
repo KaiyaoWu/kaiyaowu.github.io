@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaiyao Wu' Personal Website"
+title                    : "Kaiyao Wu's Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
