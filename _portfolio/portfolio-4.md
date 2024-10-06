@@ -1,6 +1,6 @@
 ---
 title: "A Thermally Induced Flexible Composite Phase Change Material with Boron Nitride Nanosheets/carbon Nanotubes Modified Skeleton for Battery Thermal Management"
-excerpt: "Streamline of the Normal Flat Type Channels and the Rib-Roughened Channels 1<br/><img src='/images/Figure29.png'>"
+excerpt: "Streamline of the Normal Flat Type Channels and the Rib-Roughened Channels 1<br/><img src='/images/Figure30.png'>"
 collection: Projects
 ---
 Contributions
