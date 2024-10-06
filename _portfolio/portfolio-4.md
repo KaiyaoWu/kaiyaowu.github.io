@@ -1,6 +1,6 @@
 ---
 title: "A Thermally Induced Flexible Composite Phase Change Material with Boron Nitride Nanosheets/carbon Nanotubes Modified Skeleton for Battery Thermal Management"
-excerpt: "Streamline of the Normal Flat Type Channels and the Rib-Roughened Channels 1<br/><img src='/images/Figure23.png'>"
+excerpt: "Streamline of the Normal Flat Type Channels and the Rib-Roughened Channels 1<br/><img src='/images/Figure30.png'>"
 collection: Projects
 ---
 Contributions
@@ -10,11 +10,11 @@ Contributions
 * Demonstrated the outstanding temperature reduce capacity of the flexible composite phase change material under different discharge rate in COMSOL Multiphysics.
 * Drafted a research paper and submitted for publication. Currently developing a complete thermal management system that combines bionic liquid cooling channels.
 
-![Hardware Platform](/images/Figure26.png)
+![Hardware Platform](/images/Figure31.png)
 |*PCM series materials after continuous heating and SEM images of hybrid aerogels and CPCM*|
 
-![Hardware Platform](/images/Figure27.png)
+![Hardware Platform](/images/Figure32.png)
 |*Thermal characteristics of PCM series*|
 
-![Hardware Platform](/images/Figure29.png)
+![Hardware Platform](/images/Figure33.png)
 |*Thermal management performance*|
