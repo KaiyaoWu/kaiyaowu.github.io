@@ -13,11 +13,11 @@ Contributions
 *	Improved Nusselt (convective heat transfer rate) and Sherwood (convective mass transfer rate) numbers by 4 and 1.14 times than that of normal flat ones, respectively.
 *	Drafted a research paper based on the findings and submitted for publication. Contributed to conceptualization, investigation, methodology, simulation, data curation, writing of the final manuscript.
 
-![Hardware Platform](/images/platform.png)
+![Hardware Platform](/images/Figure26.png)
 |*Hardware Platform*|
 
-![Hardware Platform](/images/temperature.png)
+![Hardware Platform](/images/Figure27.png)
 |*Achieved extra 37% temperature reduction*|
 
-![Hardware Platform](/images/Nusselt.png)
+![Hardware Platform](/images/Figure28.png)
 |*Nusselt Results*|
