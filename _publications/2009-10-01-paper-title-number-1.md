@@ -1,5 +1,5 @@
 ---
-title: "The Enhanced Dew-Point Evaporative Cooling with a Macro-Roughened Structure"
+title: "The Enhanced Dew-point Evaporative Cooling with a Macro-roughened Structure"
 collection: publications
 date: 2023-11-8
 venue: 'Volume 219'
