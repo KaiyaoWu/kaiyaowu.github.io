@@ -7,4 +7,4 @@ citation: 'Wu, K., Wang, S. *, Lin, J. *, Shao, Y., Gao, F., Chua, K.'
 ---
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540188)
 
-Recommended citation: Wu, Kaiyao and Wang, Sibao and Lin, Jie and Shao, Yunlin and Gao, Fangrui and Chua, Kian Jon, The Enhanced Dew-Point Evaporative Cooling with a Macro-Roughened Structure.
+K.Y. Wu, S.B. Wang, J. Lin, Y.L. Shao, F.R. Gao, and C.K. Jon
