@@ -1,6 +1,6 @@
 ---
-title: "Manufacturing of Counter-flow Dew-Point Evaporative Air Conditioners"
-excerpt: "Prototypes of the Air Conditioner (Second Generation) <br/><img src='/images/UG_SECOND.png'>"
+title: "Manufacturing of Counter-flow Dew-point Evaporative Air Conditioners"
+excerpt: "Prototypes of the air conditioner (second generation) <br/><img src='/images/UG_SECOND.png'>"
 collection: Projects
 ---
 
@@ -14,12 +14,12 @@ Contributions
 *	Facilitated the training of students in National Student Innovation Projects.
 
 ![Hardware Platform](/images/UG_FIRST.png)
-|*Air Conditioner (First Generation)*|
+|*Air conditioner (first generation)*|
 
 
 ![Hardware Platform](/images/first_prototype.png)
-|*Air Conditioner Build*|
+|*Air conditioner build*|
 
 
 ![Hardware Platform](/images/TESTING.png)
-|*AC Testing in Chongqing Data Center*|
+|*Testing in Chongqing Data Center*|
