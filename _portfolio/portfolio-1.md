@@ -1,6 +1,6 @@
 ---
-title: "Heat and Mass Transfer of Macro-roughened Dew-Point Evaporative Cooling"
-excerpt: "Streamline of the Normal Flat Type Channels and the Rib-Roughened Channels 1<br/><img src='/images/demo_comparision.png'>"
+title: "Heat and Mass Transfer of Macro-roughened Dew-point Evaporative Cooling"
+excerpt: "Streamline of the normal flat type channels and the rib-roughened channels 1<br/><img src='/images/demo_comparision.png'>"
 collection: Projects
 ---
 Contributions
@@ -14,10 +14,10 @@ Contributions
 *	Drafted a research paper based on the findings and submitted for publication. Contributed to conceptualization, investigation, methodology, simulation, data curation, writing of the final manuscript.
 
 ![Hardware Platform](/images/platform.png)
-|*Hardware Platform*|
+|*Hardware platform*|
 
 ![Hardware Platform](/images/temperature.png)
 |*Achieved extra 37% temperature reduction*|
 
 ![Hardware Platform](/images/Nusselt.png)
-|*Nusselt Results*|
+|*Nusselt number*|
