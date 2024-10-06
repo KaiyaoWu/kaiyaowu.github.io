@@ -1,6 +1,6 @@
 ---
-title: "Development of a Novel Tube-Type Dew-Point Evaporative Cooling Model"
-excerpt: "Tube Design in UG <br/><img src='/images/UG_Tube_Rendered.png'>"
+title: "Development of a Novel Tube-type Dew-point Evaporative Cooling Model"
+excerpt: "Tube design in UG <br/><img src='/images/UG_Tube_Rendered.png'>"
 collection: Projects
 ---
 Contributions
@@ -12,7 +12,7 @@ Contributions
 *	Drafted a research paper and submitted for publication. Contribute to investigation, methodology, and simulation.
 
 ![Hardware Platform](/images/UG_Tube.png)
-|*Heat Transfer Simulation in the Tube*|
+|*Heat transfer simulation in the tube*|
 
 ![Hardware Platform](/images/Tube_Real.jpg)
-|*Tube built based on UG models*|
+|*Tube built based on UG model*|
