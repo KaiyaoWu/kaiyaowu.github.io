@@ -3,8 +3,6 @@ title: A thermally induced flexible composite phase change material with boron n
 collection: publications
 excerpt: 'This paper is accepted in Applied Energy '
 date: 2024-08-19
-citation: 'Fu, L., Wu, Z., Wu, K., Chen, W., Zhang, M., Huang, X., Ma, C., Shao, Y. *, Ran, J., Chua, K.'
+citation: 'L.Y. Fu, Z.X. Wu, K.Y. Wu, W.D. Cheng, M.M. Zhang, X. Huang, C. Ma, Y.L. Shao*, J.Y. Ran, K.J. Chua. A thermally induced flexible composite phase change material with boron nitride nanosheets/carbon nanotubes modified skeleton for battery thermal management, Applied Energy 373, 123899 (2024)'
 ---
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0306261924012820?via%3Dihub)
-
-Recommended citation: Fu, L., Wu, Z., Wu, K., Chen, W., Zhang, M., Huang, X., Ma, C., Shao, Y. *, Ran, J., Chua, K. (2024). “A thermally induced flexible composite phase change material with boron nitride nanosheets/carbon nanotubes modified skeleton for battery thermal management”. Applied Energy vol. 373, 2024, p. 123899
+[Download paper here](https://doi.org/10.1016/j.apenergy.2024.123899)
