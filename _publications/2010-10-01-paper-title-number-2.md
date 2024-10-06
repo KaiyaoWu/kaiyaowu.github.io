@@ -1,11 +1,10 @@
 ---
-title: "Numerical Investigation of a Novel Tubular Dew-Point Evaporative Cooler"
+title: "Numerical Investigation of a Novel Tubular Dew-point Evaporative Cooler"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is accepted by Applied Thermal Engineering.'
-date: 2023-03-25
+date: 2023-01-14
 venue: 'Volume 223'
-citation: 'Gao, F., Thu, K., Wang, S. *, Zhao, F., Lin, J. *, Wu, K.'
+citation: 'F.R. Gao, K. Thu, S.B. Wang, F.Y. Zhao, J. Lin, K.Y. Wu. Numerical investigation of a novel tubular dew-point evaporative cooler 223, 120064 (2023)'
 ---
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S1359431123000935?via%3Dihub)
+[Download paper here](https://doi.org/10.1016/j.applthermaleng.2023.120064)
