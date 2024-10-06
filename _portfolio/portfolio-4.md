@@ -11,10 +11,10 @@ Contributions
 * Drafted a research paper and submitted for publication. Currently developing a complete thermal management system that combines bionic liquid cooling channels.
 
 ![Hardware Platform](/images/Figure26.png)
-|*Hardware Platform*|
+|*PCM series materials after continuous heating and SEM images of hybrid aerogels and CPCM*|
 
 ![Hardware Platform](/images/Figure27.png)
-|*Achieved extra 37% temperature reduction*|
+|*Thermal characteristics of PCM series*|
 
 ![Hardware Platform](/images/Figure29.png)
-|*Nusselt Results*|
+|*Thermal management performance*|
